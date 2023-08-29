@@ -1,2 +1,2 @@
-readme for the directory 0x03-git
+My first readme
 up-to-date via github.com
